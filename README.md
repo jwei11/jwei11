@@ -1,9 +1,9 @@
-Hey, 
+Hey! 
 
-I'm Jackie, a high schooler passionate about computer science and applied mathematics. I'm very new to these topics, but I hope to explore these two vast, immense worlds and gain a deeper understanding!
+I'm Jackie, a high school junior passionate about web/app design, AI/ML, and competitive programming. I'm proficient in C++ and familiar with CSS/HTML/Java.
 
-Outside of these subjects, I love to run (I'm on my school's cross country and track team), bike (I love exploring the sights around me), cook (I love exploring new cuisines!), and help others!
+Outside of computing, I love to run, cycle, cook, and help others!
 
-Feel free to message me on Discord: Swift#6900
+Feel free to message me on Discord: swift.cpp
 
 Have an amazing day!
